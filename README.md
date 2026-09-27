@@ -9,5 +9,5 @@ Meine Ausgangstabellen:
 "Match"
 (Kartennummer | Symbolname)
 
-Diese Tabellen habe ich manuell erarbeitet und in Excel eingegben.
+Diese Tabellen habe ich manuell erarbeitet und in Excel eingegeben.
 
